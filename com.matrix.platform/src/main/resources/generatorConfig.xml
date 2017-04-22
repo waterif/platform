@@ -34,7 +34,7 @@
 
 		<table schema="" tableName="t_user_test"
 			domainObjectName="UserTest">
-			<generatedKey column="id" sqlStatement="Mysql" type="post" and identity="true"/>
+			<generatedKey column="id" sqlStatement="Mysql" type="post" identity="true"/>
 		</table>
 	</context>
 </generatorConfiguration>
